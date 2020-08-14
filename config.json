@@ -1,0 +1,6 @@
+{
+  "fake_api_url" : "https://myfakeapi.com/api",
+  "host" : "localhost",
+  "port" : "3000",
+  "log_level" : "debug"
+}
